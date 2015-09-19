@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stoopid_monkey",
+  "name": "Stoopid Monkey Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
