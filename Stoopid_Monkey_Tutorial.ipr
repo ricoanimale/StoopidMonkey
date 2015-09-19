@@ -187,6 +187,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StoopidMonkey.iml" filepath="$PROJECT_DIR$/StoopidMonkey.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stoopid_Monkey_Tutorial.iml" filepath="$PROJECT_DIR$/Stoopid_Monkey_Tutorial.iml" />
     </modules>
   </component>
